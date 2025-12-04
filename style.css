@@ -100,7 +100,6 @@ body{
 
 .author{
     display: flex;
-    
     align-items: center; 
 }
 
@@ -111,9 +110,8 @@ body{
 
 .author p{
     margin-left: 1em;
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
+    
+     
 
     font-family:  var(--font-family-primary);  
     font-size: 12.5px;
